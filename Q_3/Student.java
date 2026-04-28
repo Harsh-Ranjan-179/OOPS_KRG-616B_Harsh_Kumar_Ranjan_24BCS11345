@@ -1,4 +1,4 @@
-package demo1;
+package Q_3;
 
 public class Student {
     private String name;
